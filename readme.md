@@ -17,14 +17,6 @@ whatTheBUG is an open-source project aimed at helping students share code snippe
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
-## Usage
-
-1. Sign up or log in to the platform.
-2. Explore code snippets shared by other users.
-3. Share your own code snippets and receive comments and insights from others.
-4. Collaborate with your friends on coding assignments by sharing code snippets and discussing them.
-5. Customize your profile and manage your shared code snippets.
-
 ## Contributing
 
 Contributions from the open-source community are highly appreciated! If you would like to contribute to the project, please follow these steps:
